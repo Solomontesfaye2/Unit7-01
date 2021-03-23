@@ -10,7 +10,7 @@ userGuess= document.getElementById('input').value
   randomNumber = parseInt(randomNumber)
 
   if (userGuess == randomNumber) {
-alert("Congragulation You Win !!!")
+alert('Congragulation You Win !!!')
   }
 }
 
