@@ -1,3 +1,5 @@
 # Unit7-01
 guess
- [![linter](https://github.com/Solomontesfaye2/Unit7-01/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter) 
+- name: Super-Linter
+  uses: github/super-linter@v3.15.5
+
